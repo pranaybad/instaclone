@@ -31,6 +31,7 @@ This project can be run from a web browser or the Expo client app. You may find 
 
 - Run `yarn eject` to create the native projects.
 - You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
+![Screenshot (2)](https://user-images.githubusercontent.com/74052369/142731531-db282ad9-9638-4a2a-8346-e42037f43b07.png)
 
 ## Publishing
 
